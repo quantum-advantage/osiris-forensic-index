@@ -1,0 +1,10 @@
+Category,Attribute,Value,Notes
+Environment,Platform,Android (Termux),ARM64 architecture inferred
+Environment,Home Directory,/data/data/com.termux/files/home,OSIRIS index & DNALang SDK
+Environment,Shell,/data/data/com.termux/files/usr/bin/bash,Termux with custom aliases
+Environment,Python Version,3.x,Used for nexus.py & OSIRIS scripts
+Files,report.txt,Public,Uploaded / To update
+Files,py_index.txt,Public,Uploaded / To update
+Files,file_hashes.txt,Empty,Uploaded / To update
+Files,filesystem_index.txt,Empty,Uploaded / To update
+Submodules,copilot-sdk-dnalang,Tracked,Push may require separate credentials
